@@ -141,11 +141,12 @@ def surfacearea(request):
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot (34).png>)
+![Screenshot (34)](https://github.com/velupradeep/MathServer/assets/150329341/ae150dee-bf60-4b62-8447-bf77dbbfbed7)
 
 
 ## HOMEPAGE:
-![alt text](<Screenshot (33).png>)
+
+![Screenshot (33)](https://github.com/velupradeep/MathServer/assets/150329341/55ded102-1d8b-41c7-8ae3-f6fa308b1b1e)
 
 
 ## RESULT:
